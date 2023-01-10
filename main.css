@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.continer {
+    width: 65vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.continer img {
+    transform: rotate(0.1deg);
+}
+
+.img-2{
+    position: relative;
+
+}
+
+.img-3 {
+    
+    margin-left: -11px;
+    margin-top: -4px;
+}
+
+.img-3 a {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: -1000px;
+   
+}
